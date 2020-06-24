@@ -213,6 +213,14 @@
             "type": "input",
             "note": "请输入平台的名称"
         },
+         {
+            "label": "Backgroundimage",
+			"group": "主题设置",
+            "name": "Backgroundimage",
+            "type": "input",
+            "value": "",
+            "note": "背景图地址"
+        },
         {
             "name": "platform_link",
             "label": "Powered By 链接",
